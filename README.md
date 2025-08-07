@@ -16,7 +16,7 @@ Permite criar, listar, buscar, atualizar e remover pedidos, com autenticação e
 ---
 
 ##  Estrutura do Projeto
-``
+```
 src/
 ├── controller # Controladores REST
 ├── service # Regras de negócio
@@ -24,4 +24,4 @@ src/
 ├── dto # Objetos de transferência de dados
 └── mapper # Conversões Entity <-> DTO
 
-``
+````
